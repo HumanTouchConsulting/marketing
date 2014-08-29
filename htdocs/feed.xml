@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:E360E244-E799-4F85-94B5-C9897522EC16</id>
+ <title>Page list Atom feed</title>
+ <updated>2011-09-16T14:32:43-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:01C0A636-03B7-4985-966A-9BC25C130684</id>
+  <title>Welcome to Human Touch Consulting</title>
+  <title xmlns="urn:iweb:">Welcome to Human Touch Consulting</title>
+  <in-navbar xmlns="urn:iweb:">01C0A636-03B7-4985-966A-9BC25C130684</in-navbar>
+  <link rel="alternate" href="Welcome_to_Human_Touch_Consulting.html"/>
+  <updated>2011-09-16T14:32:43.001-06:00</updated>
+  <content>Welcome to Human Touch Consulting</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8F8428CF-679D-456A-8E59-D1F9F7C3F3D5</id>
+  <title>Consulting Services | Introduction</title>
+  <title xmlns="urn:iweb:">Consulting Services | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">8F8428CF-679D-456A-8E59-D1F9F7C3F3D5</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.002-06:00</updated>
+  <content>Consulting Services | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A9744C2C-EEA0-4155-9E17-3FBB27D56886</id>
+  <title>Consulting Services | What is a Customer</title>
+  <title xmlns="urn:iweb:">Consulting Services | What is a Customer</title>
+  <in-navbar xmlns="urn:iweb:">A9744C2C-EEA0-4155-9E17-3FBB27D56886</in-navbar>
+  <link rel="alternate" href="Consulting_Services___What_is_a_Customer.html"/>
+  <updated>2011-09-16T14:32:43.003-06:00</updated>
+  <content>Consulting Services | What is a Customer</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F6BDFE72-3588-4F02-8BB9-5B2BE583B78B</id>
+  <title>Consulting Services | What is Customer Service</title>
+  <title xmlns="urn:iweb:">Consulting Services | What is Customer Service</title>
+  <in-navbar xmlns="urn:iweb:">F6BDFE72-3588-4F02-8BB9-5B2BE583B78B</in-navbar>
+  <link rel="alternate" href="Consulting_Services___What_is_Customer_Service.html"/>
+  <updated>2011-09-16T14:32:43.004-06:00</updated>
+  <content>Consulting Services | What is Customer Service</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5CC2EEA7-7FAC-41FB-83A1-B24F1FAEBD72</id>
+  <title>Consulting Services | CHAMPSCast | Introduction</title>
+  <title xmlns="urn:iweb:">Consulting Services | CHAMPSCast | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">5CC2EEA7-7FAC-41FB-83A1-B24F1FAEBD72</in-navbar>
+  <link rel="alternate" href="Consulting_Services___CHAMPSCast___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.005-06:00</updated>
+  <content>Consulting Services | CHAMPSCast | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:477E9AB3-3504-458A-8202-BCADBA5B98DD</id>
+  <title>Consulting Services | CHAMPSCast | Video Training</title>
+  <title xmlns="urn:iweb:">Consulting Services | CHAMPSCast | Video Training</title>
+  <in-navbar xmlns="urn:iweb:">477E9AB3-3504-458A-8202-BCADBA5B98DD</in-navbar>
+  <link rel="alternate" href="Consulting_Services___CHAMPSCast___Video_Training.html"/>
+  <updated>2011-09-16T14:32:43.006-06:00</updated>
+  <content>Consulting Services | CHAMPSCast | Video Training</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0F0FD7C1-223E-48DA-BB66-54717A03802B</id>
+  <title>Consulting Services | Our Philosophy</title>
+  <title xmlns="urn:iweb:">Consulting Services | Our Philosophy</title>
+  <in-navbar xmlns="urn:iweb:">0F0FD7C1-223E-48DA-BB66-54717A03802B</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Our_Philosophy.html"/>
+  <updated>2011-09-16T14:32:43.007-06:00</updated>
+  <content>Consulting Services | Our Philosophy</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:731206CA-74E3-4FD1-8D64-80626C7A7B52</id>
+  <title>Consulting Services | Our Services | Introduction</title>
+  <title xmlns="urn:iweb:">Consulting Services | Our Services | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">731206CA-74E3-4FD1-8D64-80626C7A7B52</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Our_Services___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.008-06:00</updated>
+  <content>Consulting Services | Our Services | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4BB38714-E2B8-42E6-8C31-DE141CA6223B</id>
+  <title>Consulting Services | Our Services | Pilot Projects</title>
+  <title xmlns="urn:iweb:">Consulting Services | Our Services | Pilot Projects</title>
+  <in-navbar xmlns="urn:iweb:">4BB38714-E2B8-42E6-8C31-DE141CA6223B</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Our_Services___Pilot_Projects.html"/>
+  <updated>2011-09-16T14:32:43.009-06:00</updated>
+  <content>Consulting Services | Our Services | Pilot Projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5C860877-B2B0-4459-8BF1-B3527A90B4F9</id>
+  <title>Consulting Services | Our Services | Project Design</title>
+  <title xmlns="urn:iweb:">Consulting Services | Our Services | Project Design</title>
+  <in-navbar xmlns="urn:iweb:">5C860877-B2B0-4459-8BF1-B3527A90B4F9</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Our_Services___Project_Design.html"/>
+  <updated>2011-09-16T14:32:43.010-06:00</updated>
+  <content>Consulting Services | Our Services | Project Design</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:27844B9F-907B-4FEE-B6FD-471DA309B1B5</id>
+  <title>Consulting Services | Our Services | Project Management</title>
+  <title xmlns="urn:iweb:">Consulting Services | Our Services | Project Management</title>
+  <in-navbar xmlns="urn:iweb:">27844B9F-907B-4FEE-B6FD-471DA309B1B5</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Our_Services___Project_Management.html"/>
+  <updated>2011-09-16T14:32:43.011-06:00</updated>
+  <content>Consulting Services | Our Services | Project Management</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9E682CCB-4A1A-4235-8795-61F6D0A9DC90</id>
+  <title>Consulting Services | Our Services | HTC Video Platform</title>
+  <title xmlns="urn:iweb:">Consulting Services | Our Services | HTC Video Platform</title>
+  <in-navbar xmlns="urn:iweb:">9E682CCB-4A1A-4235-8795-61F6D0A9DC90</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Our_Services___HTC_Video_Platform.html"/>
+  <updated>2011-09-16T14:32:43.012-06:00</updated>
+  <content>Consulting Services | Our Services | HTC Video Platform</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:623AD52C-9958-48AC-ABDE-4428703FA8AC</id>
+  <title>Consulting Services | Performance Evaluation | Introduction</title>
+  <title xmlns="urn:iweb:">Consulting Services | Performance Evaluation | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">623AD52C-9958-48AC-ABDE-4428703FA8AC</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Performance_Evaluation___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.013-06:00</updated>
+  <content>Consulting Services | Performance Evaluation | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7604D8C6-B086-4436-A722-E0FDBA2BECBB</id>
+  <title>Consulting Services | Performance Evaluation | Undercover Boss</title>
+  <title xmlns="urn:iweb:">Consulting Services | Performance Evaluation | Undercover Boss</title>
+  <in-navbar xmlns="urn:iweb:">7604D8C6-B086-4436-A722-E0FDBA2BECBB</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Performance_Evaluation___Undercover_Boss.html"/>
+  <updated>2011-09-16T14:32:43.014-06:00</updated>
+  <content>Consulting Services | Performance Evaluation | Undercover Boss</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:09BDEDEC-2E32-4139-B478-9C973665F3D6</id>
+  <title>Consulting Services | Performance Evaluation | Video Mystery Shopping</title>
+  <title xmlns="urn:iweb:">Consulting Services | Performance Evaluation | Video Mystery Shopping</title>
+  <in-navbar xmlns="urn:iweb:">09BDEDEC-2E32-4139-B478-9C973665F3D6</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Performance_Evaluation___Video_Mystery_Shopping.html"/>
+  <updated>2011-09-16T14:32:43.015-06:00</updated>
+  <content>Consulting Services | Performance Evaluation | Video Mystery Shopping</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F3269593-2C33-4ACB-854C-40446C25AFEA</id>
+  <title>Consulting Services | Sales Analysis | Introduction</title>
+  <title xmlns="urn:iweb:">Consulting Services | Sales Analysis | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">F3269593-2C33-4ACB-854C-40446C25AFEA</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Sales_Analysis___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.016-06:00</updated>
+  <content>Consulting Services | Sales Analysis | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B2CD90F2-6703-4E5C-86F5-E311EACBDBAA</id>
+  <title>Consulting Services | Sales Analysis | Benchmarking</title>
+  <title xmlns="urn:iweb:">Consulting Services | Sales Analysis | Benchmarking</title>
+  <in-navbar xmlns="urn:iweb:">B2CD90F2-6703-4E5C-86F5-E311EACBDBAA</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Sales_Analysis___Benchmarking.html"/>
+  <updated>2011-09-16T14:32:43.017-06:00</updated>
+  <content>Consulting Services | Sales Analysis | Benchmarking</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CBCCCAAB-F68F-42DA-92E4-6DAA9DCB3A85</id>
+  <title>Consulting Services | Sales Analysis | Best Practice Comparison</title>
+  <title xmlns="urn:iweb:">Consulting Services | Sales Analysis | Best Practice Comparison</title>
+  <in-navbar xmlns="urn:iweb:">CBCCCAAB-F68F-42DA-92E4-6DAA9DCB3A85</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Sales_Analysis___Best_Practice_Comparison.html"/>
+  <updated>2011-09-16T14:32:43.018-06:00</updated>
+  <content>Consulting Services | Sales Analysis | Best Practice Comparison</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:28246239-958D-4570-8F2B-B178B605468B</id>
+  <title>Consulting Services | Solution Design | Introduction</title>
+  <title xmlns="urn:iweb:">Consulting Services | Solution Design | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">28246239-958D-4570-8F2B-B178B605468B</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Solution_Design___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.019-06:00</updated>
+  <content>Consulting Services | Solution Design | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:ED7E28BF-3F3C-4FD4-BCDF-0EFBFCC9E7AD</id>
+  <title>Consulting Services | Solution Design | Opportunity Analysis</title>
+  <title xmlns="urn:iweb:">Consulting Services | Solution Design | Opportunity Analysis</title>
+  <in-navbar xmlns="urn:iweb:">ED7E28BF-3F3C-4FD4-BCDF-0EFBFCC9E7AD</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Solution_Design___Opportunity_Analysis.html"/>
+  <updated>2011-09-16T14:32:43.020-06:00</updated>
+  <content>Consulting Services | Solution Design | Opportunity Analysis</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F0FF8EB5-13B6-4679-AFD3-520652C6B304</id>
+  <title>Consulting Services | Solution Design | Service Models</title>
+  <title xmlns="urn:iweb:">Consulting Services | Solution Design | Service Models</title>
+  <in-navbar xmlns="urn:iweb:">F0FF8EB5-13B6-4679-AFD3-520652C6B304</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Solution_Design___Service_Models.html"/>
+  <updated>2011-09-16T14:32:43.021-06:00</updated>
+  <content>Consulting Services | Solution Design | Service Models</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:83CB8832-9B18-4774-8D6F-74AAB34B2BD1</id>
+  <title>Consulting Services | Solution Design | Incentive Structures</title>
+  <title xmlns="urn:iweb:">Consulting Services | Solution Design | Incentive Structures</title>
+  <in-navbar xmlns="urn:iweb:">83CB8832-9B18-4774-8D6F-74AAB34B2BD1</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Solution_Design___Incentive_Structures.html"/>
+  <updated>2011-09-16T14:32:43.022-06:00</updated>
+  <content>Consulting Services | Solution Design | Incentive Structures</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:563A220E-5C4D-4C23-86C4-24B724EDF7CE</id>
+  <title>Consulting Services | Results Delivery | Introduction</title>
+  <title xmlns="urn:iweb:">Consulting Services | Results Delivery | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">563A220E-5C4D-4C23-86C4-24B724EDF7CE</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Results_Delivery___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.023-06:00</updated>
+  <content>Consulting Services | Results Delivery | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:25734AAA-9F97-4635-B1C6-636EA714EF2F</id>
+  <title>Consulting Services | Results Delivery | Monitoring Services</title>
+  <title xmlns="urn:iweb:">Consulting Services | Results Delivery | Monitoring Services</title>
+  <in-navbar xmlns="urn:iweb:">25734AAA-9F97-4635-B1C6-636EA714EF2F</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Results_Delivery___Monitoring_Services.html"/>
+  <updated>2011-09-16T14:32:43.024-06:00</updated>
+  <content>Consulting Services | Results Delivery | Monitoring Services</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:79943AD2-4C0B-49E6-9C9E-C4E0100A0D59</id>
+  <title>Consulting Services | Results Delivery | Training &amp; Coaching</title>
+  <title xmlns="urn:iweb:">Consulting Services | Results Delivery | Training &amp; Coaching</title>
+  <in-navbar xmlns="urn:iweb:">79943AD2-4C0B-49E6-9C9E-C4E0100A0D59</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Results_Delivery___Training_%26_Coaching.html"/>
+  <updated>2011-09-16T14:32:43.025-06:00</updated>
+  <content>Consulting Services | Results Delivery | Training &amp; Coaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F65420E5-FAA2-4A16-9287-F42A0714F916</id>
+  <title>Consulting Services | Results Delivery | Meeting-in-a-Box</title>
+  <title xmlns="urn:iweb:">Consulting Services | Results Delivery | Meeting-in-a-Box</title>
+  <in-navbar xmlns="urn:iweb:">F65420E5-FAA2-4A16-9287-F42A0714F916</in-navbar>
+  <link rel="alternate" href="Consulting_Services___Results_Delivery___Meeting-in-a-Box.html"/>
+  <updated>2011-09-16T14:32:43.026-06:00</updated>
+  <content>Consulting Services | Results Delivery | Meeting-in-a-Box</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3140B72C-1B83-46EB-A8E2-3BED9618DA27</id>
+  <title>Client Industries | Overview</title>
+  <title xmlns="urn:iweb:">Client Industries | Overview</title>
+  <in-navbar xmlns="urn:iweb:">3140B72C-1B83-46EB-A8E2-3BED9618DA27</in-navbar>
+  <link rel="alternate" href="Client_Industries___Overview.html"/>
+  <updated>2011-09-16T14:32:43.027-06:00</updated>
+  <content>Client Industries | Overview</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3CF4151A-9D70-4137-89EC-36AA1083C73A</id>
+  <title>Client Industries | Automotive</title>
+  <title xmlns="urn:iweb:">Client Industries | Automotive</title>
+  <in-navbar xmlns="urn:iweb:">3CF4151A-9D70-4137-89EC-36AA1083C73A</in-navbar>
+  <link rel="alternate" href="Client_Industries___Automotive.html"/>
+  <updated>2011-09-16T14:32:43.028-06:00</updated>
+  <content>Client Industries | Automotive</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1AC0A1D5-FFBE-4F1B-A836-E37B6F5F78A8</id>
+  <title>Client Industries | Banking | Consumer Finance</title>
+  <title xmlns="urn:iweb:">Client Industries | Banking | Consumer Finance</title>
+  <in-navbar xmlns="urn:iweb:">1AC0A1D5-FFBE-4F1B-A836-E37B6F5F78A8</in-navbar>
+  <link rel="alternate" href="Client_Industries___Banking___Consumer_Finance.html"/>
+  <updated>2011-09-16T14:32:43.029-06:00</updated>
+  <content>Client Industries | Banking | Consumer Finance</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8D94F92A-48A0-491E-A665-DD918A8081E0</id>
+  <title>Client Industries | Casual Dining</title>
+  <title xmlns="urn:iweb:">Client Industries | Casual Dining</title>
+  <in-navbar xmlns="urn:iweb:">8D94F92A-48A0-491E-A665-DD918A8081E0</in-navbar>
+  <link rel="alternate" href="Client_Industries___Casual_Dining.html"/>
+  <updated>2011-09-16T14:32:43.030-06:00</updated>
+  <content>Client Industries | Casual Dining</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B560F826-330B-42F1-ADD8-444026622876</id>
+  <title>Client Industries | Convenience</title>
+  <title xmlns="urn:iweb:">Client Industries | Convenience</title>
+  <in-navbar xmlns="urn:iweb:">B560F826-330B-42F1-ADD8-444026622876</in-navbar>
+  <link rel="alternate" href="Client_Industries___Convenience.html"/>
+  <updated>2011-09-16T14:32:43.031-06:00</updated>
+  <content>Client Industries | Convenience</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EEC2C655-A83D-4983-A259-0FFFF563336C</id>
+  <title>Client Industries | Fast Food | QSR</title>
+  <title xmlns="urn:iweb:">Client Industries | Fast Food | QSR</title>
+  <in-navbar xmlns="urn:iweb:">EEC2C655-A83D-4983-A259-0FFFF563336C</in-navbar>
+  <link rel="alternate" href="Client_Industries___Fast_Food___QSR.html"/>
+  <updated>2011-09-16T14:32:43.032-06:00</updated>
+  <content>Client Industries | Fast Food | QSR</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C9D2FA84-D8AC-4B7C-BB6A-8AF45D39E868</id>
+  <title>Client Industries | Hospitality</title>
+  <title xmlns="urn:iweb:">Client Industries | Hospitality</title>
+  <in-navbar xmlns="urn:iweb:">C9D2FA84-D8AC-4B7C-BB6A-8AF45D39E868</in-navbar>
+  <link rel="alternate" href="Client_Industries___Hospitality.html"/>
+  <updated>2011-09-16T14:32:43.033-06:00</updated>
+  <content>Client Industries | Hospitality</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:62F6B578-7CF2-4895-B9E9-29461DEF985E</id>
+  <title>Client Industries | Retail</title>
+  <title xmlns="urn:iweb:">Client Industries | Retail</title>
+  <in-navbar xmlns="urn:iweb:">62F6B578-7CF2-4895-B9E9-29461DEF985E</in-navbar>
+  <link rel="alternate" href="Client_Industries___Retail.html"/>
+  <updated>2011-09-16T14:32:43.034-06:00</updated>
+  <content>Client Industries | Retail</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:85C4FD38-B072-4B6F-A1B7-183D242366AB</id>
+  <title>Client Industries | Telecoms</title>
+  <title xmlns="urn:iweb:">Client Industries | Telecoms</title>
+  <in-navbar xmlns="urn:iweb:">85C4FD38-B072-4B6F-A1B7-183D242366AB</in-navbar>
+  <link rel="alternate" href="Client_Industries___Telecoms.html"/>
+  <updated>2011-09-16T14:32:43.035-06:00</updated>
+  <content>Client Industries | Telecoms</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A263D7F8-AB06-4206-9E9F-5194CD22B2BF</id>
+  <title>Client Industries | Other</title>
+  <title xmlns="urn:iweb:">Client Industries | Other</title>
+  <in-navbar xmlns="urn:iweb:">A263D7F8-AB06-4206-9E9F-5194CD22B2BF</in-navbar>
+  <link rel="alternate" href="Client_Industries___Other.html"/>
+  <updated>2011-09-16T14:32:43.036-06:00</updated>
+  <content>Client Industries | Other</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AFE66F30-FB58-44D0-B12A-A5D21D869562</id>
+  <title>Case Studies | Introduction</title>
+  <title xmlns="urn:iweb:">Case Studies | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">AFE66F30-FB58-44D0-B12A-A5D21D869562</in-navbar>
+  <link rel="alternate" href="Case_Studies___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.037-06:00</updated>
+  <content>Case Studies | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:40F16F8D-E865-4D2D-9AB9-B150F8B36EAA</id>
+  <title>Case Studies | Customer Service Improvement</title>
+  <title xmlns="urn:iweb:">Case Studies | Customer Service Improvement</title>
+  <in-navbar xmlns="urn:iweb:">40F16F8D-E865-4D2D-9AB9-B150F8B36EAA</in-navbar>
+  <link rel="alternate" href="Case_Studies___Customer_Service_Improvement.html"/>
+  <updated>2011-09-16T14:32:43.038-06:00</updated>
+  <content>Case Studies | Customer Service Improvement</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C6DBA67E-3049-4C4E-A86F-076CF93A1A40</id>
+  <title>Case Studies | Benchmarking &amp; Competitor Analysis</title>
+  <title xmlns="urn:iweb:">Case Studies | Benchmarking &amp; Competitor Analysis</title>
+  <in-navbar xmlns="urn:iweb:">C6DBA67E-3049-4C4E-A86F-076CF93A1A40</in-navbar>
+  <link rel="alternate" href="Case_Studies___Benchmarking_%26_Competitor_Analysis.html"/>
+  <updated>2011-09-16T14:32:43.039-06:00</updated>
+  <content>Case Studies | Benchmarking &amp; Competitor Analysis</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1A42C606-0952-401B-8B39-81F4266B3F27</id>
+  <title>Case Studies | Brand Management &amp; Compliance </title>
+  <title xmlns="urn:iweb:">Case Studies | Brand Management &amp; Compliance </title>
+  <in-navbar xmlns="urn:iweb:">1A42C606-0952-401B-8B39-81F4266B3F27</in-navbar>
+  <link rel="alternate" href="Case_Studies___Brand_Management_%26_Compliance.html"/>
+  <updated>2011-09-16T14:32:43.040-06:00</updated>
+  <content>Case Studies | Brand Management &amp; Compliance </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EA6CEEC2-702D-4E6A-861A-FAAFBCBE7CDC</id>
+  <title>Case Studies | Industry News</title>
+  <title xmlns="urn:iweb:">Case Studies | Industry News</title>
+  <in-navbar xmlns="urn:iweb:">EA6CEEC2-702D-4E6A-861A-FAAFBCBE7CDC</in-navbar>
+  <link rel="alternate" href="Case_Studies___Industry_News.html"/>
+  <updated>2011-09-16T14:32:43.041-06:00</updated>
+  <content>Case Studies | Industry News</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CD0E3B12-C50C-4617-B077-97BE4237D15B</id>
+  <title>Case Studies | White Papers | Points of View</title>
+  <title xmlns="urn:iweb:">Case Studies | White Papers | Points of View</title>
+  <in-navbar xmlns="urn:iweb:">CD0E3B12-C50C-4617-B077-97BE4237D15B</in-navbar>
+  <link rel="alternate" href="Case_Studies___White_Papers___Points_of_View.html"/>
+  <updated>2011-09-16T14:32:43.042-06:00</updated>
+  <content>Case Studies | White Papers | Points of View</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DC8909F5-B669-455A-8033-366A391268FB</id>
+  <title>About Us | Introduction</title>
+  <title xmlns="urn:iweb:">About Us | Introduction</title>
+  <in-navbar xmlns="urn:iweb:">DC8909F5-B669-455A-8033-366A391268FB</in-navbar>
+  <link rel="alternate" href="About_Us___Introduction.html"/>
+  <updated>2011-09-16T14:32:43.043-06:00</updated>
+  <content>About Us | Introduction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EA5E0A55-0C4C-4398-A7F0-5BC04B2D6382</id>
+  <title>About Us | Executive Management</title>
+  <title xmlns="urn:iweb:">About Us | Executive Management</title>
+  <in-navbar xmlns="urn:iweb:">EA5E0A55-0C4C-4398-A7F0-5BC04B2D6382</in-navbar>
+  <link rel="alternate" href="About_Us___Executive_Management.html"/>
+  <updated>2011-09-16T14:32:43.044-06:00</updated>
+  <content>About Us | Executive Management</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:74B45FE9-9FE5-4FC5-ADFC-DBE7B5A5C520</id>
+  <title>About Us | News &amp; Press</title>
+  <title xmlns="urn:iweb:">About Us | News &amp; Press</title>
+  <in-navbar xmlns="urn:iweb:">74B45FE9-9FE5-4FC5-ADFC-DBE7B5A5C520</in-navbar>
+  <link rel="alternate" href="About_Us___News_%26_Press.html"/>
+  <updated>2011-09-16T14:32:43.045-06:00</updated>
+  <content>About Us | News &amp; Press</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2E1F8710-5209-43D8-B1A9-3FE19523983D</id>
+  <title>About Us | News &amp; Press | Downloads</title>
+  <title xmlns="urn:iweb:">About Us | News &amp; Press | Downloads</title>
+  <in-navbar xmlns="urn:iweb:">2E1F8710-5209-43D8-B1A9-3FE19523983D</in-navbar>
+  <link rel="alternate" href="About_Us___News_%26_Press___Downloads.html"/>
+  <updated>2011-09-16T14:32:43.046-06:00</updated>
+  <content>About Us | News &amp; Press | Downloads</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:76F71F8E-292A-4C95-AC96-4FFE1EC97C81</id>
+  <title>About Us | Careers</title>
+  <title xmlns="urn:iweb:">About Us | Careers</title>
+  <in-navbar xmlns="urn:iweb:">76F71F8E-292A-4C95-AC96-4FFE1EC97C81</in-navbar>
+  <link rel="alternate" href="About_Us___Careers.html"/>
+  <updated>2011-09-16T14:32:43.047-06:00</updated>
+  <content>About Us | Careers</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7037FA0B-8D43-41CE-B8AF-EECA0BDF7110</id>
+  <title>About Us | Strategic Partners</title>
+  <title xmlns="urn:iweb:">About Us | Strategic Partners</title>
+  <in-navbar xmlns="urn:iweb:">7037FA0B-8D43-41CE-B8AF-EECA0BDF7110</in-navbar>
+  <link rel="alternate" href="About_Us___Strategic_Partners.html"/>
+  <updated>2011-09-16T14:32:43.048-06:00</updated>
+  <content>About Us | Strategic Partners</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2FEB7316-A004-4A6F-BD6B-12D9E6C43EB0</id>
+  <title>About Us | Legal | Privacy</title>
+  <title xmlns="urn:iweb:">About Us | Legal | Privacy</title>
+  <in-navbar xmlns="urn:iweb:">2FEB7316-A004-4A6F-BD6B-12D9E6C43EB0</in-navbar>
+  <link rel="alternate" href="About_Us___Legal___Privacy.html"/>
+  <updated>2011-09-16T14:32:43.049-06:00</updated>
+  <content>About Us | Legal | Privacy</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4A36CF33-6AEE-42CA-AC56-ABC6B91C8760</id>
+  <title>About Us | Terms of Use</title>
+  <title xmlns="urn:iweb:">About Us | Terms of Use</title>
+  <in-navbar xmlns="urn:iweb:">4A36CF33-6AEE-42CA-AC56-ABC6B91C8760</in-navbar>
+  <link rel="alternate" href="About_Us___Terms_of_Use.html"/>
+  <updated>2011-09-16T14:32:43.050-06:00</updated>
+  <content>About Us | Terms of Use</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7552AAD9-B505-4017-9D30-75EB625326B4</id>
+  <title>About Us | Site Map</title>
+  <title xmlns="urn:iweb:">About Us | Site Map</title>
+  <in-navbar xmlns="urn:iweb:">7552AAD9-B505-4017-9D30-75EB625326B4</in-navbar>
+  <link rel="alternate" href="About_Us___Site_Map.html"/>
+  <updated>2011-09-16T14:32:43.051-06:00</updated>
+  <content>About Us | Site Map</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8419420E-60A3-4675-BAF5-990E639D2B33</id>
+  <title>Contact Us</title>
+  <title xmlns="urn:iweb:">Contact Us</title>
+  <in-navbar xmlns="urn:iweb:">8419420E-60A3-4675-BAF5-990E639D2B33</in-navbar>
+  <link rel="alternate" href="Contact_Us.html"/>
+  <updated>2011-09-16T14:32:43.052-06:00</updated>
+  <content>Contact Us</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D66140C6-A16F-4BBF-9E2C-70D3CCFAF2B8</id>
+  <title>Contact Us | Corporate Inquiries</title>
+  <title xmlns="urn:iweb:">Contact Us | Corporate Inquiries</title>
+  <in-navbar xmlns="urn:iweb:">D66140C6-A16F-4BBF-9E2C-70D3CCFAF2B8</in-navbar>
+  <link rel="alternate" href="Contact_Us___Corporate_Inquiries.html"/>
+  <updated>2011-09-16T14:32:43.053-06:00</updated>
+  <content>Contact Us | Corporate Inquiries</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:145C6CA0-18AD-4FC2-9893-ED5798647AB3</id>
+  <title>Contact Us | Order Evaluation</title>
+  <title xmlns="urn:iweb:">Contact Us | Order Evaluation</title>
+  <in-navbar xmlns="urn:iweb:">145C6CA0-18AD-4FC2-9893-ED5798647AB3</in-navbar>
+  <link rel="alternate" href="Contact_Us___Order_Evaluation.html"/>
+  <updated>2011-09-16T14:32:43.054-06:00</updated>
+  <content>Contact Us | Order Evaluation</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6F721919-4EF5-4A12-BA24-A1C50B911524</id>
+  <title>Contact Us | Newsletter</title>
+  <title xmlns="urn:iweb:">Contact Us | Newsletter</title>
+  <in-navbar xmlns="urn:iweb:">6F721919-4EF5-4A12-BA24-A1C50B911524</in-navbar>
+  <link rel="alternate" href="Contact_Us___Newsletter.html"/>
+  <updated>2011-09-16T14:32:43.055-06:00</updated>
+  <content>Contact Us | Newsletter</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:22331544-7C41-4D57-8971-8A35E8AEEC86</id>
+  <title>Contact Us | Client Login</title>
+  <title xmlns="urn:iweb:">Contact Us | Client Login</title>
+  <in-navbar xmlns="urn:iweb:">22331544-7C41-4D57-8971-8A35E8AEEC86</in-navbar>
+  <link rel="alternate" href="Contact_Us___Client_Login.html"/>
+  <updated>2011-09-16T14:32:43.056-06:00</updated>
+  <content>Contact Us | Client Login</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:46365386-882B-4DC3-9AAB-17CA27241552</id>
+  <title>XTRA Welcome GRAPHICS</title>
+  <title xmlns="urn:iweb:">XTRA Welcome GRAPHICS</title>
+  <in-navbar xmlns="urn:iweb:">46365386-882B-4DC3-9AAB-17CA27241552</in-navbar>
+  <link rel="alternate" href="XTRA_Welcome_GRAPHICS.html"/>
+  <updated>2011-09-16T14:32:43.057-06:00</updated>
+  <content>XTRA Welcome GRAPHICS</content>
+ </entry>
+</feed>
